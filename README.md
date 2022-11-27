@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keren Vasconcelos.
 - 👀 I’m interested in data analytics and science.
 - 🌱 I’m learning SQL and Python!
-- 🌎 I’m looking to collaborate on impacctiful projects related to real-world issues!
+- 🌎 I’m looking to collaborate on impactiful projects related to real-world issues!
 - 📫 https://www.linkedin.com/in/kerenvasconcelos/
