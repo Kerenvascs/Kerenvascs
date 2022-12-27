@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Keren Vasconcelos.
 - 👀 I’m interested in data analytics and science.
-- 🌱 I’m learning SQL and Python!
+- 🐍 The languages I am most familiar with are SQl and Python.
+- 🌱 I’m learning PySpark and DBT!
 - 🌎 I’m looking to collaborate on impactiful projects related to real-world issues!
 - 📫 https://www.linkedin.com/in/kerenvasconcelos/
